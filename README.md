@@ -7,4 +7,4 @@
 - Pronouns: He/Him
 - [Tester of The Day](https://testeroftheday.com/)
 - [Full Snack Tester (Testing Portfolio)](https://www.fullsnacktester.com/)
-- [My Testing Blog](https://dowen.me.uk)
+- [My Blog](https://www.dowen.me.uk)
